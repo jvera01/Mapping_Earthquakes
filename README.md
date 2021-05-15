@@ -1,5 +1,5 @@
 
-
+![](Earthquake_Challenge/Resources/BannerEarthquake.PNG)
 
 
 # Overview of Project
