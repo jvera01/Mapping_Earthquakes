@@ -1,8 +1,9 @@
-# Mapping_Earthquakes
 
-Overview of Project
 
-# Background
+
+
+# Overview of Project
+
 Basil and Sadhana like how you created your earthquake map with two different maps and the earthquake overlay. Now, Basil and Sadhana would like to see the earthquake data in relation to the tectonic plates’ location on the earth, and they would like to see all the earthquakes with a magnitude greater than 4.5 on the map, and they would like to see the data on a third map.
 
 What You're Creating
@@ -22,7 +23,7 @@ Results with detail analysis:
 # Deliverable 1: Add Tectonic Plate Data
    Add Tectonic Plate Data.PNG
 
-
+![](Earthquake_Challenge/Resources/D1Earthquake.png)
 
 
 
@@ -33,7 +34,7 @@ Using your knowledge of JavaScript, Leaflet.js, and geoJSON data, you’ll add m
 # Deliverable 2: Add Major Earthquake Data
    Add Major Earthquake Data.PNG
 
-
+![](Earthquake_Challenge/Resources/D2Earthquake.png)
 
 
 Deliverable 3: Add an Additional Map (15 points)
@@ -42,18 +43,13 @@ Using your knowledge of JavaScript and Leaflet.js add a third map style to your 
 
 # Deliverable 3: Add an Additional Map
     Add an Additional Map.png 
+![](Earthquake_Challenge/Resources/D3Earthquake.png)
 
+# Summary: 
 
-Summary: 
-# Tech-Overview
-In this module, I used the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake is visually represented by a circle and color, where a higher magnitude has a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, will display information about the earthquake.
-
-# Basic Project Plan
-Purpose The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
-
-Tasks To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
+In this module, I used the Leaflet.js Application Programming Interface (API) to populate a geographical map with GeoJSON earthquake data from a URL. Each earthquake is visually represented by a circle and color, where a higher magnitude has a larger diameter and will be darker in color. In addition, each earthquake has a popup marker that, when clicked, will display information about the earthquake. This project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days. Tasks To complete this project, use a URL for GeoJSON earthquake data from the USGS website and retrieve geographical coordinates and the magnitudes of earthquakes for the last seven days. Then add the data to a map.
 
 
 
-
+![](Earthquake_Challenge/Resources/Endbanner1.PNG)
 
